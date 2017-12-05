@@ -1,0 +1,7 @@
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.exe.config
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.exe
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\bin\Debug\ProyectoAlmanaque.pdb
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.csproj.CoreCompileInputs.cache
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.exe
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.pdb
+C:\Users\Marilyn\source\repos\ProyectoAlmanaque\ProyectoAlmanaque\obj\Debug\ProyectoAlmanaque.csprojResolveAssemblyReference.cache
